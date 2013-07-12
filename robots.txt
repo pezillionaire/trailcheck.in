@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /demo
+Disallow: /biketrailsin
+Disallow: /import
+Allow: /
+
